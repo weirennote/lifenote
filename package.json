@@ -8,6 +8,19 @@
     "build": "vite build",
     "preview": "vite preview",
     "start": "vite"
-  }
+  },
+  "main": "vite.config.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weirennote/lifenote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weirennote/lifenote/issues"
+  },
+  "homepage": "https://github.com/weirennote/lifenote#readme",
+  "description": ""
 }
-
